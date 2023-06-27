@@ -14,7 +14,7 @@ function App() {
         <nav className="navbar">
           <ul className="navbar-nav">
             <li className="nav-item">
-              <Link to="/evalon/home" className="nav-link">Home</Link>
+              <Link to="/evalon/" className="nav-link">Home</Link>
             </li>
             <li className="nav-item">
               <Link to="/evalon/about" className="nav-link">About</Link>
@@ -28,7 +28,7 @@ function App() {
           </ul>
         </nav>
         <Routes>
-          <Route path="/evalon/home" element={<Home />} />
+          <Route path="/evalon/" element={<Home />} />
           <Route path="/evalon/about" element={<About />} />
           <Route path="/evalon/cards" element={<Cards />} />
           <Route path="/evalon/lore" element={<Lore />} />
