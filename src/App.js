@@ -14,24 +14,24 @@ function App() {
         <nav className="navbar">
           <ul className="navbar-nav">
             <li className="nav-item">
-              <Link to="/" className="nav-link">Home</Link>
+              <Link to="/evalon/home" className="nav-link">Home</Link>
             </li>
             <li className="nav-item">
-              <Link to="/about" className="nav-link">About</Link>
+              <Link to="/evalon/about" className="nav-link">About</Link>
             </li>
             <li className="nav-item">
-              <Link to="/cards" className="nav-link">Cards</Link>
+              <Link to="/evalon/cards" className="nav-link">Cards</Link>
             </li>
             <li className="nav-item">
-              <Link to="/lore" className="nav-link">Lore</Link>
+              <Link to="/evalon/lore" className="nav-link">Lore</Link>
             </li>
           </ul>
         </nav>
         <Routes>
-          <Route path="/home" element={<Home />} />
-          <Route path="/about" element={<About />} />
-          <Route path="/cards" element={<Cards />} />
-          <Route path="/lore" element={<Lore />} />
+          <Route path="/evalon/home" element={<Home />} />
+          <Route path="/evalon/about" element={<About />} />
+          <Route path="/evalon/cards" element={<Cards />} />
+          <Route path="/evalon/lore" element={<Lore />} />
         </Routes>
         <footer className="footer">
           <p>&copy; 2023 Evalon. All rights reserved.</p>
