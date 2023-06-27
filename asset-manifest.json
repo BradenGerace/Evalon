@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/evalon/static/css/main.bcb23703.css",
+    "main.js": "/evalon/static/js/main.8cc94b74.js",
+    "static/js/787.d6234a7e.chunk.js": "/evalon/static/js/787.d6234a7e.chunk.js",
+    "index.html": "/evalon/index.html",
+    "main.bcb23703.css.map": "/evalon/static/css/main.bcb23703.css.map",
+    "main.8cc94b74.js.map": "/evalon/static/js/main.8cc94b74.js.map",
+    "787.d6234a7e.chunk.js.map": "/evalon/static/js/787.d6234a7e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bcb23703.css",
+    "static/js/main.8cc94b74.js"
+  ]
+}
