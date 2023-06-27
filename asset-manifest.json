@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/evalon/static/css/main.bcb23703.css",
-    "main.js": "/evalon/static/js/main.daa73a4d.js",
+    "main.js": "/evalon/static/js/main.5ea87339.js",
     "static/js/787.d6234a7e.chunk.js": "/evalon/static/js/787.d6234a7e.chunk.js",
     "index.html": "/evalon/index.html",
     "main.bcb23703.css.map": "/evalon/static/css/main.bcb23703.css.map",
-    "main.daa73a4d.js.map": "/evalon/static/js/main.daa73a4d.js.map",
+    "main.5ea87339.js.map": "/evalon/static/js/main.5ea87339.js.map",
     "787.d6234a7e.chunk.js.map": "/evalon/static/js/787.d6234a7e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bcb23703.css",
-    "static/js/main.daa73a4d.js"
+    "static/js/main.5ea87339.js"
   ]
 }
