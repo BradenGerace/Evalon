@@ -33,6 +33,9 @@ function App() {
           <Route path="/cards" element={<Cards />} />
           <Route path="/lore" element={<Lore />} />
         </Routes>
+        <footer className="footer">
+          <p>&copy; 2023 Evalon. All rights reserved.</p>
+        </footer>
       </div>
     </Router>
   );
