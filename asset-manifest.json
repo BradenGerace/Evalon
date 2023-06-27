@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/evalon/static/css/main.bcb23703.css",
-    "main.js": "/evalon/static/js/main.8cc94b74.js",
-    "static/js/787.d6234a7e.chunk.js": "/evalon/static/js/787.d6234a7e.chunk.js",
-    "index.html": "/evalon/index.html",
-    "main.bcb23703.css.map": "/evalon/static/css/main.bcb23703.css.map",
-    "main.8cc94b74.js.map": "/evalon/static/js/main.8cc94b74.js.map",
-    "787.d6234a7e.chunk.js.map": "/evalon/static/js/787.d6234a7e.chunk.js.map"
+    "main.css": "/Evalon/static/css/main.bcb23703.css",
+    "main.js": "/Evalon/static/js/main.d86bdc82.js",
+    "static/js/787.d6234a7e.chunk.js": "/Evalon/static/js/787.d6234a7e.chunk.js",
+    "index.html": "/Evalon/index.html",
+    "main.bcb23703.css.map": "/Evalon/static/css/main.bcb23703.css.map",
+    "main.d86bdc82.js.map": "/Evalon/static/js/main.d86bdc82.js.map",
+    "787.d6234a7e.chunk.js.map": "/Evalon/static/js/787.d6234a7e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bcb23703.css",
-    "static/js/main.8cc94b74.js"
+    "static/js/main.d86bdc82.js"
   ]
 }
